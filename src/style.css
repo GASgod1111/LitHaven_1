@@ -14,4 +14,14 @@ body {
   height: 100vh;
   margin: -20px 0 50px;
 }
-
+body {
+  background-image: url(./images/alonelibrary.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
